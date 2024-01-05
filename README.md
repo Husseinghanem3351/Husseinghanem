@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Husseinghanem3351
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...c programming language
-- 💞️ I’m looking to collaborate on ...learn programming
+- 👋 Hi, I’m Hussein ghanem
+- 🌱 I’m flutter developer
 - 📫 How to reach me ...husseinghanem182@gmail,com
 
 <!---
